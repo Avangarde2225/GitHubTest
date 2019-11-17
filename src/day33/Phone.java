@@ -5,7 +5,7 @@ public class Phone {
     String brand;
     boolean hasCover;
     int memorySize;
-
+    
 
     public static void main(String[] args) {
 
